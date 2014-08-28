@@ -37,4 +37,4 @@ This controls the cross-hatching on your scene. The cross-hatching will target a
 
 **Final tip**
 
-If you're getting too many lines drawn, try either lowering the resolution of your textures or go into photoshop and apply a smart blur. The cel shader will pick up even tiny amounts of detail with the right settings, so go nuts and blur it a lot. If you're after a kind of water-colour fill effect, then smart blur is the way to go.
+If you're getting too many lines drawn on a particular texture but the rest of the scene looks alright, try either lowering the resolution of your textures or go into photoshop and apply a smart blur. The cel shader will pick up even tiny amounts of detail with the right settings, so go nuts and blur it a lot. If you're after a kind of water-colour fill effect, then smart blur is the way to go.
