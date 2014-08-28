@@ -9,11 +9,9 @@ https://forums.unrealengine.com/showthread.php?7164-A-different-kind-of-cel-shad
 
 **To use**
 
-* Migrate the CelShader folder from the sample to your target content folder.
-* 
-* In your project create a global (unbound) post-processing object.
-* 
-* Go to the Misc tab and add the CelShader instance as a blendable.
+1. Migrate the CelShader folder from the sample to your target content folder.
+2. In your project create a global (unbound) post-processing object.
+3. Go to the Misc tab and add the CelShader instance as a blendable.
 
 It's that easy.
 
