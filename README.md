@@ -7,6 +7,12 @@ Advanced CelShader project for Unreal Engine 4
 
 https://forums.unrealengine.com/showthread.php?7164-A-different-kind-of-cel-shader
 
+**Content samples**
+
+The content sample pack is too big for GitHub. Download it direct here:
+
+http://i.imgur.com/ieVgevz.jpg
+
 **To use**
 
 1. Migrate the CelShader folder from the sample to your target content folder.
