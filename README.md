@@ -11,7 +11,7 @@ https://forums.unrealengine.com/showthread.php?7164-A-different-kind-of-cel-shad
 
 The content sample pack is too big for GitHub. Download it direct here:
 
-http://i.imgur.com/ieVgevz.jpg
+https://mega.co.nz/#!7ZFHmBCA!G8j2UZbog1coE-t_UB7U4jLNERYA-x7zpVfLV3w4fyw
 
 **To use**
 
