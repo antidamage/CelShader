@@ -9,9 +9,7 @@ https://forums.unrealengine.com/showthread.php?7164-A-different-kind-of-cel-shad
 
 **Content samples**
 
-The content sample pack is too big for GitHub. Download it direct here:
-
-https://mega.co.nz/#!7ZFHmBCA!G8j2UZbog1coE-t_UB7U4jLNERYA-x7zpVfLV3w4fyw
+Proper content samples (along with higher tier support) are available for users who have purchased this asset from the Epic Marketplace. If you'd like to see this shader appear on the Epic Marketplace and receive more support, please vote for it when it eventually appears on the Epic Marketplace Trello board!
 
 **To use**
 
