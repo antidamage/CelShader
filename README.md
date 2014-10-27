@@ -13,9 +13,11 @@ Proper content samples (along with higher tier support) are available for users 
 
 **To use**
 
-1. Migrate the CelShader folder from the sample to your target content folder.
-2. In your project create a global (unbound) post-processing object.
-3. Go to the Misc tab and add the CelShader instance as a blendable.
+1. Check out the branch correlating to the version of Unreal Engine you're using, e.g. 4\_5 or 4\_4.
+2. Migrate the CelShader folder from the sample to your target content folder.
+3. In your project create a post-processing object.
+4. Go to the Misc tab and add a CelShader preset instance as a blendable, e.g. CelShaderDirtyManga.
+5. Set the post-processing object to be "unbound".
 
 It's that easy.
 
