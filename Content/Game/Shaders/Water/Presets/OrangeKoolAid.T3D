@@ -1,0 +1,53 @@
+Begin Object Class=MaterialInstanceConstant Name="OrangeKoolAid"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'/Game/Shaders/Water/Water.Water'
+   ParentLightingGuid=5296E3844A315AE5693044953C1B7311
+   ScalarParameterValues(0)=(ParameterName="Colour 1 strength",ParameterValue=1.000000,ExpressionGUID=A2C784824BAABFA1FA6D1BABCB2C92BE)
+   ScalarParameterValues(1)=(ParameterName="Colour 2 strength",ParameterValue=1.000000,ExpressionGUID=EE6A7AF0455A605FA34BD9BE995EEE73)
+   ScalarParameterValues(2)=(ParameterName="Realism",ParameterValue=0.700000,ExpressionGUID=91BD54B943C674DEA93996B961103282)
+   ScalarParameterValues(3)=(ParameterName="Reflectiveness",ParameterValue=1.000000,ExpressionGUID=0445B0164EE028743EF468AA439D6AF7)
+   ScalarParameterValues(4)=(ParameterName="Refraction",ParameterValue=1.400000,ExpressionGUID=A23FBC974074F75CAD6D4AB57911FD0E)
+   ScalarParameterValues(5)=(ParameterName="Roughness",ExpressionGUID=AFBB829D4B0604645C86F79F45B08209)
+   ScalarParameterValues(6)=(ParameterName="Specular strength",ParameterValue=1.050000,ExpressionGUID=38445E734B1C6A502DB9F3B193956658)
+   ScalarParameterValues(7)=(ParameterName="Water depth hue change distance",ParameterValue=3000.000000,ExpressionGUID=AAB4E7AE42370A3AA3AB18BA9528401B)
+   ScalarParameterValues(8)=(ParameterName="Edge foam depth",ParameterValue=300.000000,ExpressionGUID=78F238F94C22C9A0C40DF7A8273DC73F)
+   ScalarParameterValues(9)=(ParameterName="Edge foam mask contrast",ExpressionGUID=355A2E344F41A46F996F728C1690799A)
+   ScalarParameterValues(10)=(ParameterName="Edge foam shadow depth",ParameterValue=20.000000,ExpressionGUID=4DC616794AB1FAF7D154B8AC17DC071B)
+   ScalarParameterValues(11)=(ParameterName="Edge foam shadow mask contrast",ExpressionGUID=F06A49294BBF2E4A2A2B079E49EF2B0A)
+   ScalarParameterValues(12)=(ParameterName="Foam depth",ParameterValue=100.000000,ExpressionGUID=ADFE371B4BEF62A43133ED84D3CC69B7)
+   ScalarParameterValues(13)=(ParameterName="Foam distortion",ParameterValue=0.000500,ExpressionGUID=D795348A4A780D5B56131DB251BE53D9)
+   ScalarParameterValues(14)=(ParameterName="Foam mask contrast",ParameterValue=1.000000,ExpressionGUID=A391D4844D1F582EDBDB65A02559660E)
+   ScalarParameterValues(15)=(ParameterName="Foam scale",ParameterValue=50.000000,ExpressionGUID=0E58D3134DF7F028360CEF8792E5DBB3)
+   ScalarParameterValues(16)=(ParameterName="Ripple",ParameterValue=100.000000,ExpressionGUID=B57813874EC451E0576594A28E8B328B)
+   ScalarParameterValues(17)=(ParameterName="Ripple Source Size",ParameterValue=100000.000000,ExpressionGUID=490F6C57448769BE80D381A7002C7612)
+   ScalarParameterValues(18)=(ParameterName="Tesselation Multiplier",ParameterValue=8.000000,ExpressionGUID=201500B84EA47088EEB0F489029DB38B)
+   ScalarParameterValues(19)=(ParameterName="Wave Height",ParameterValue=40.000000,ExpressionGUID=3D80FFDA48F743FA9B0C0097D95EF09C)
+   ScalarParameterValues(20)=(ParameterName="Waves Speed",ParameterValue=0.300000,ExpressionGUID=ECC07BE24C517EF35EC41A881116F522)
+   ScalarParameterValues(21)=(ParameterName="Normal Map Height",ParameterValue=0.100000,ExpressionGUID=9EC0DD2740BAB5A887BA3E8D1B947C5B)
+   ScalarParameterValues(22)=(ParameterName="Normal Map Scale",ParameterValue=1.000000,ExpressionGUID=AA4FAC814FF831E04E1DDCA35F41D100)
+   ScalarParameterValues(23)=(ParameterName="Specular map scale",ParameterValue=1000.000000,ExpressionGUID=61908F1242956A7164661D99A8DF4851)
+   ScalarParameterValues(24)=(ParameterName="Specular morph speed",ParameterValue=0.050000,ExpressionGUID=C84163724D83E288D6691C94154EE2B0)
+   ScalarParameterValues(25)=(ParameterName="TimePositionScale",ParameterValue=40.000000,ExpressionGUID=1A32E15B4033E8692CB82C8E98B25221)
+   ScalarParameterValues(26)=(ParameterName="Wave Constrast",ParameterValue=-0.700000,ExpressionGUID=AEBD6324498C92026A725A8FEEEAAACE)
+   ScalarParameterValues(27)=(ParameterName="RefractionDepthBias")
+   TextureParameterValues(0)=(ParameterName="Foam",ParameterValue=Texture2D'/Game/Shaders/Water/foam2.foam2',ExpressionGUID=F726423A4D6AF9522489B2BE72D2C2AE)
+   TextureParameterValues(1)=(ParameterName="Normal Map 1",ParameterValue=Texture2D'/Game/Sample_sharedassets/Textures/water_bump.water_bump',ExpressionGUID=C8FFEB9943261D0F78195095854842E4)
+   TextureParameterValues(2)=(ParameterName="Normal Map 2",ParameterValue=Texture2D'/Game/Sample_sharedassets/Textures/water_bump2.water_bump2',ExpressionGUID=8A2590C04C027026926A6DB175249619)
+   TextureParameterValues(3)=(ParameterName="Normals",ParameterValue=Texture2D'/Game/Shaders/Water/ocean_normal2.ocean_normal2',ExpressionGUID=BAAAAC924E81E9E78C7A09A2E0CC662F)
+   VectorParameterValues(0)=(ParameterName="Colour 1",ParameterValue=(R=1.000000,G=0.299041,B=0.000000,A=0.000000),ExpressionGUID=C0DD84AD4A74ACC8EFF6E6B5E1D70349)
+   VectorParameterValues(1)=(ParameterName="Colour 2",ParameterValue=(R=1.000000,G=0.850356,B=0.076853,A=0.000000),ExpressionGUID=9129DAB6463FBE8EDDE80787B6ED664E)
+   VectorParameterValues(2)=(ParameterName="Overall tint colour",ParameterValue=(R=1.000000,G=0.503457,B=0.388118,A=0.000000),ExpressionGUID=AA446E1040C3B0A6627E569395E78BA5)
+   VectorParameterValues(3)=(ParameterName="Specular colour",ParameterValue=(R=0.729527,G=1.000000,B=0.000000,A=0.000000),ExpressionGUID=C797CA41410155C5ECAE1A906D66815B)
+   VectorParameterValues(4)=(ParameterName="Edge foam colour",ParameterValue=(R=1.000000,G=0.458127,B=0.042921,A=0.000000),ExpressionGUID=8E9D9411481B338679A36387D183A69A)
+   VectorParameterValues(5)=(ParameterName="Edge foam shadow colour",ParameterValue=(R=0.540000,G=0.296195,B=0.036206,A=0.000000),ExpressionGUID=994CE80643FBA9159B6A959CFEBC9DBC)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300,BlendMode=BLEND_Additive)
+   ReferencedTextureGuids(0)=A3DE2ABF4ED2EF968487D2BF1E4FD35B
+   ReferencedTextureGuids(1)=7ADB8B3A46844772D512D0B525F83318
+   ReferencedTextureGuids(2)=76B346424C73D92158AAA6B5CA0CB893
+   ReferencedTextureGuids(3)=EF130F9E42CCBA5584134DB71DA9594A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=0D816F15463AB8EBE66DD19C5972A9A7
+End Object
